@@ -10,10 +10,18 @@ this server contains:
 - full working RTV, first vote is for gamemode and second vote is for map. (!rtv)
 - knifes, gloves, stickers customization (!knife, !gloves, !sticker)
 - custom models (!models)
+- custom matchmakming rank on scoreboard (!mm)
+- custom pins on scoreboard (!pin)
 - custom mvp sound (!mvp)
 - option to disable music on every map with volume option (!music)
 - fortnite dances (!t, !tance, !dance)
-- custom server menu (!ustawienia)
+- hitmarkers (!hit)
+- skybox chooser (!sky)
+- quake (!quake)
+- custom c4 sounds (!c4)
+- kda reset (!rs)
+- statistics - kills, deaths, time played on a server (!lvl)
+- custom command server menu (!ustawienia)
 
 gamemodes with features:
 - awp
