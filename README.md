@@ -4,6 +4,8 @@ my "little project" that i worked around 2 months for csgo.
 
 so i given up on this project because the ping latency 
 
+![x1x1x1](https://github.com/abatrowy/instasity-csgo-server/assets/39527345/28f84725-2d9e-4f4b-b2ab-4bf8b2bc1cbd)
+
 
 
 gamemodes:
