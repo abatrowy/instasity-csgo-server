@@ -49,3 +49,8 @@ gamemodes with features:
 - duckhunt
 - unusual custom 4fun maps
 
+things todo:
+- fix latency lag spike
+- fix surf timer
+- fix kz climb
+
