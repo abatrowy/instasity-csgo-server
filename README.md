@@ -10,8 +10,6 @@ so i given up on this project because of the ping latency
 
 gamemodes with features:
 - awp
-1v1 duel noscope
-every 3rd round is gonna be noscope only round
 - only mirage
 - 1v1 arena
 - gungame
