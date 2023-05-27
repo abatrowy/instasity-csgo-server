@@ -2,6 +2,10 @@
 
 my "little project" that i worked around 2 months for csgo.
 
+so i given up on this project because the ping latency 
+
+https://imgur.com/a/sCI9Vuh
+
 gamemodes:
 - awp
 - only mirage
