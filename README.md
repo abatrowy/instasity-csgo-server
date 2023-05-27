@@ -7,7 +7,7 @@ so i given up on this project because of the ping latency
 ![x1x1x1](https://github.com/abatrowy/instasity-csgo-server/assets/39527345/28f84725-2d9e-4f4b-b2ab-4bf8b2bc1cbd)
 
 this server contains:
-- full working RTV, first vote is for gamemode and second is for map. (!rtv)
+- full working RTV, first vote is for gamemode and second vote is for map. (!rtv)
 - knifes, gloves, stickers customization (!knife, !gloves, !sticker)
 - custom models (!models)
 - custom mvp sound (!mvp)
