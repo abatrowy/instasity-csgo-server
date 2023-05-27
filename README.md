@@ -25,6 +25,7 @@ this server contains:
 
 gamemodes with features:
 - awp
+im rlyxd
 - only mirage
 - 1v1 arena
 - gungame
