@@ -27,7 +27,7 @@ this server contains:
 - custom command server menu (!ustawienia)
 
 gamemodes with features:
-awp:
+awp.
 - if there's 1v1, the vote for noscope battle gonna begin
 - after 3 rounds, there's gonna be noscope round with custom sound.
 only mirage:
