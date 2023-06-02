@@ -68,8 +68,8 @@ __base builder__
 - store menu (!shop)
 - respawn if stuck (!r)
 __golf__
-
 - customizable golf holes (!golfedit)
+
 __jailbreak__
 
 - custom menu (click "," or just write !menu)
@@ -82,40 +82,50 @@ __jailbreak__
 - dice (!dice, !kostka)
 - parachute (hold E)
 __minigames__
+
 - default minigames 
 __minigames course__
+
 -  auto move to T 
 - anti block and anti velocity plugins providing to fix velocity movement
 __deathrun__
+
 - free run (!fr)
 - menu with level system. allowing to buy abilities
 - velocity custom HUD
 - anti block and anti velocity plugins providing to fix velocity movement
 __super powers__
+
 - 15 random super powers every round of spawn. including also message on chat
 __surf__
+
 - hud with stages, timer, velocity
 - replay bot
 - WR/map server
 - zones
 __surfrpg__
+
 - anti buyzone kill
 - 5s protection from getting spawnkill
 - no fall damage
 - 1v1 noscope duel
 __bhop__
+
 - hud with stages, timer, velocity
 - replay bot
 - WR/map server
 - zones
 __hns__
+
 - custom velocity HUD
 - custom menu with noclip, saving and loading positions
 - no fall damage 
 __hns rpg__
+
 - random grenades, including freeze grenade with decoy
 - anti flash for CT
 - custom velocity HUD
+
 __kz (longjump)__
 - custom HUD with velocity
 - menu with noclip, saving and loading positions
