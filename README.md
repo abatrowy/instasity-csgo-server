@@ -27,7 +27,7 @@ this server contains:
 - statistics - kills, deaths, time played on a server (!lvl)
 - custom command server menu (!ustawienia)
 
-preferable server parameters:
+preferable startup parameters:
 -
 srcds_run -console -game csgo -usercon +game_type 0 +game_mode 1 -nohltv -tickrate 128 -maxplayers 12 -maxplayers_override 12 +ip 188.165.19.26 -port 27425 +sv_setsteamaccount "AF8ABFF1AED19965AC6799FD3FEDE008" -exec server.cfg -insecure +mapgroup mg_bomb +mapgroup mg_active +map surf_monstergreen_pb
 
