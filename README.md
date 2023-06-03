@@ -35,6 +35,10 @@ this server contains:
 - welcome, join, disconnect sounds (https://github.com/abatrowy/announcements-plugin)
 - custom command server menu (!ustawienia)
 
+custom decals on map:
+-
+[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://youtu.be/K9q2QH5nEps)
+
 gamemodes with features:
 -
 __awp:__
