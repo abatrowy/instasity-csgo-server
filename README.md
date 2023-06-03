@@ -193,3 +193,10 @@ things TO DO:
 - super powers: wallhack doesn't work.
 - improve basebuilder shop (its broken currently)
 
+Q&A:
+-
+__will this get me being token banned?__
+- yes, you can prevend this by removing 3rd party plugins which is against valve rules (skin, glove, sticker, coin & mm changers)
+__will i update this project in a future to cs2?__
+- 90% no
+
