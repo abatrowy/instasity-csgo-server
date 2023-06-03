@@ -27,17 +27,22 @@ this server contains:
 - statistics - kills, deaths, time played on a server (!lvl)
 - custom command server menu (!ustawienia)
 
+preferable server parameters:
+srcds_run -console -game csgo -usercon +game_type 0 +game_mode 1 -nohltv -tickrate 128 -maxplayers 12 -maxplayers_override 12 +ip 188.165.19.26 -port 27425 +sv_setsteamaccount "AF8ABFF1AED19965AC6799FD3FEDE008" -exec server.cfg -insecure +mapgroup mg_bomb +mapgroup mg_active +map surf_monstergreen_pb
+
 gamemodes with features:
 -
 __awp:__
 - if there's 1v1, the vote for noscope battle begins
 - after 3 rounds, there's gonna be noscope round with custom sound.
+-  ghost mode if u die with noclip function (!duch)
 
 __only mirage:__
 - anti rush plugin
 - parachute (hold E)
 - random defuse color cable (4 available)
 - bomb timer, with custom sounds
+- ghost mode if u die with noclip function (!duch)
 
 __1v1 arena:__
 - gun choose menu (!gun, !weapon)
@@ -80,22 +85,28 @@ __jailbreak__
 - event days (!vd)
 - dice (!dice, !kostka)
 - parachute (hold E)
+- ghost mode if u die with noclip function (!duch)
 
 __minigames__
-- default minigames 
+- default minigames with bunnyhop and accuracy support
+- ghost mode if u die with noclip function (!duch)
 
 __minigames course__
 -  auto move to T 
 - anti block and anti velocity plugins providing to fix velocity movement
+- ghost mode if u die with noclip function (!duch)
 
 __deathrun__
 - free run (!fr)
+- random terrorist will be chosen every round
 - menu with level system. allowing to buy abilities
 - velocity custom HUD
 - anti block and anti velocity plugins providing to fix velocity movement
+- ghost mode if u die with noclip function (!duch)
 
 __super powers__
 - 15 random super powers every round of spawn. including also message on chat
+- ghost mode if u die with noclip function (!duch)
 
 __surf__
 - hud with stages, timer, velocity
@@ -105,10 +116,12 @@ __surf__
 
 __surfrpg__
 - nospread support
+- higher velocity support
 - anti buyzone kill
 - 5s protection from getting spawnkill
 - no fall damage
 - 1v1 noscope duel
+- ghost mode if u die with noclip function (!duch)
 
 __bhop__
 - hud with stages, timer, velocity
@@ -125,6 +138,7 @@ __hns rpg__
 - random grenades, including freeze grenade with decoy
 - anti flash for CT
 - custom velocity HUD
+- ghost mode if u die with noclip function (!duch)
 
 __kz (longjump)__
 - custom HUD with velocity
@@ -138,16 +152,33 @@ __kz climb__
 - WR/map server
 
 __duckhunt__
-- random sniper will be choosen every round.
+- random sniper will be chosen every round.
+- ghost mode if u die with noclip function (!duch)
 
 __unusual custom 4fun maps__
 - just a default 4 fun maps, without any plugins.
+- ghost mode if u die with noclip function (!duch)
 
 
 
 __obviously i wrote stuff that i remember, there's might be something for sure i dont remember lol.__
 
-things todo:
+things i've fixed before releasing this project public:
+-
+- server optimization
+- random kicks from server (most common: "you may only connect to this server from a lobby"
+- random crashes, freezes
+- gamebreaking bugs
+- menu models
+- arms while wearing custom skin/model
+- mp3 downloading and missing models
+- bomb planting (weird hostage bug that i struggled 5 days straight how to fix that)
+- rtv
+- random spawns
+- problems with cvars
+- plugins that emited 7 sounds in a row (added cooldown)
+
+things TO DO:
 -
 - fix latency lag spike
 - fix surf timer plugin / database
