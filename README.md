@@ -164,7 +164,7 @@ __unusual custom 4fun maps__
 
 __obviously i wrote stuff that i remember, there's might be something for sure i dont remember lol.__
 
-things i've fixed before releasing this project public:
+things i've fixed before releasing this project publicly:
 -
 - server optimization
 - random kicks from server (most common: "you may only connect to this server from a lobby"
