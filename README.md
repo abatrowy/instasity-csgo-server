@@ -37,7 +37,7 @@ this server contains:
 
 custom decals on map:
 -
-[![Watch the video](https://i.imgur.com/PUxGwCK.png)](https://youtu.be/K9q2QH5nEps)
+[![Watch the video]](https://youtu.be/K9q2QH5nEps)
 
 gamemodes with features:
 -
