@@ -197,7 +197,6 @@ Q&A:
 -
 __will this get me token banned? (GSLT)__
 - yes, you can prevend this by removing 3rd party plugins which is against valve rules 
-(skin, glove, sticker, coin & mm changers)
 
 __will i update this project in a future to cs2?__
 - 95% no, im tired of this game so that's why i realesed this.
