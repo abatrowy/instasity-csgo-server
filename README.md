@@ -30,48 +30,47 @@ this server contains:
 gamemodes with features:
 -
 __awp:__
-
 - if there's 1v1, the vote for noscope battle gonna begin
 - after 3 rounds, there's gonna be noscope round with custom sound.
-__only mirage:__
 
+__only mirage:__
 - anti rush plugin
 - parachute (hold E)
 - random defuse color cable (4 avialable)
 - bomb timer, with custom sounds
-__1v1 arena:__
 
+__1v1 arena:__
 - gun choose menu (!gun, !weapon)
 - heavy, awp, noscope scout, headshot round selection
+
 __gungame__
-
 - customizable weapon gains, after 20 kills last one who kills with knife - wins.
-__retakes__
 
+__retakes__
 - autoplant
 - site detector with custom sound
 - gun menu (!gun, !weapon)
-__ffa__
 
+__ffa__
 - type "hs" in chat to enable only headshot 
 - gun menu (!gun, !weapon)
+
 __hide and seek__
-
 - just a default hide and seek, without any plugins.
-__prophunt__
 
+__prophunt__
 - hint with custom sounds (!whistle)
 - custom model menu (!model)
-__base builder__
 
+__base builder__
 - party mode (!party)
 - store menu (!shop)
 - respawn if stuck (!r)
+
 __golf__
 - customizable golf holes (!golfedit)
 
 __jailbreak__
-
 - custom menu (click "," or just write !menu)
 - prison/guards custom models (!models)
 - warden (!warden)
@@ -81,47 +80,47 @@ __jailbreak__
 - event days (!vd)
 - dice (!dice, !kostka)
 - parachute (hold E)
+
 __minigames__
-
 - default minigames 
-__minigames course__
 
+__minigames course__
 -  auto move to T 
 - anti block and anti velocity plugins providing to fix velocity movement
-__deathrun__
 
+__deathrun__
 - free run (!fr)
 - menu with level system. allowing to buy abilities
 - velocity custom HUD
 - anti block and anti velocity plugins providing to fix velocity movement
+
 __super powers__
-
 - 15 random super powers every round of spawn. including also message on chat
-__surf__
 
+__surf__
 - hud with stages, timer, velocity
 - replay bot
 - WR/map server
 - zones
-__surfrpg__
 
+__surfrpg__
 - anti buyzone kill
 - 5s protection from getting spawnkill
 - no fall damage
 - 1v1 noscope duel
-__bhop__
 
+__bhop__
 - hud with stages, timer, velocity
 - replay bot
 - WR/map server
 - zones
-__hns__
 
+__hns__
 - custom velocity HUD
 - custom menu with noclip, saving and loading positions
 - no fall damage 
-__hns rpg__
 
+__hns rpg__
 - random grenades, including freeze grenade with decoy
 - anti flash for CT
 - custom velocity HUD
@@ -136,8 +135,10 @@ __kz climb__
 - no fall damage
 - replay bot
 - WR/map server
+
 __duckhunt__
 - random sniper will be choosen every round.
+
 __unusual custom 4fun maps__
 - just a default 4 fun maps, without any plugins.
 
