@@ -166,6 +166,7 @@ __obviously i wrote stuff that i remember, there's might be something for sure i
 
 things i've fixed before releasing this project publicly:
 -
+- server startup logic (including startup plugins etc etc)
 - server optimization
 - random kicks from server (most common: "you may only connect to this server from a lobby"
 - random crashes, freezes
