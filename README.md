@@ -30,13 +30,13 @@ this server contains:
 gamemodes with features:
 -
 __awp:__
-- if there's 1v1, the vote for noscope battle gonna begin
+- if there's 1v1, the vote for noscope battle begins
 - after 3 rounds, there's gonna be noscope round with custom sound.
 
 __only mirage:__
 - anti rush plugin
 - parachute (hold E)
-- random defuse color cable (4 avialable)
+- random defuse color cable (4 available)
 - bomb timer, with custom sounds
 
 __1v1 arena:__
