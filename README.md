@@ -143,7 +143,8 @@ __duckhunt__
 __unusual custom 4fun maps__
 - just a default 4 fun maps, without any plugins.
 
-obviously i wrote stuff that i remember, there's might be something for sure i dont remember lol.
+
+__obviously i wrote stuff that i remember, there's might be something for sure i dont remember lol.__
 
 things todo:
 -
