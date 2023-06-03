@@ -6,7 +6,14 @@ so i given up on this project because of cs2 and the ping latency
 
 ![x1x1x1](https://github.com/abatrowy/instasity-csgo-server/assets/39527345/28f84725-2d9e-4f4b-b2ab-4bf8b2bc1cbd)
 
-this server is 80% of polish support.
+important:
+-
+- after joining server, you have to set cl_downloadfilter "all", cl_allowupload_1 (there's a plugin to force it)
+- 80% of polish support. (mostly plugins were translated by myself)
+
+preferable startup parameters:
+-
+srcds_run -console -game csgo -usercon +game_type 0 +game_mode 1 -nohltv -tickrate 128 -maxplayers 12 -maxplayers_override 12 +ip 188.165.19.26 -port 27425 +sv_setsteamaccount "AF8ABFF1AED19965AC6799FD3FEDE008" -exec server.cfg -insecure +mapgroup mg_bomb +mapgroup mg_active +map surf_monstergreen_pb
 
 this server contains:
 -
@@ -26,10 +33,6 @@ this server contains:
 - thirdperson (!tp)
 - statistics - kills, deaths, time played on a server (!lvl)
 - custom command server menu (!ustawienia)
-
-preferable startup parameters:
--
-srcds_run -console -game csgo -usercon +game_type 0 +game_mode 1 -nohltv -tickrate 128 -maxplayers 12 -maxplayers_override 12 +ip 188.165.19.26 -port 27425 +sv_setsteamaccount "AF8ABFF1AED19965AC6799FD3FEDE008" -exec server.cfg -insecure +mapgroup mg_bomb +mapgroup mg_active +map surf_monstergreen_pb
 
 gamemodes with features:
 -
