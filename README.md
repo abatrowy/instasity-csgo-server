@@ -8,7 +8,7 @@ so i given up on this project because of cs2 and the ping latency
 
 important:
 -
-- before joining server, you have to set cl_downloadfilter "all", cl_allowupload_1 (there's a plugin to force it)
+- before joining server, you have to set cl_downloadfilter "all", sv_allowupload_1 (there's a plugin to force it)
 - 80% of polish support. (mostly plugins were translated by myself)
 
 preferable startup parameters:
