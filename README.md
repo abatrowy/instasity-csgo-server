@@ -126,6 +126,7 @@ __surfrpg__
 - 5s protection from getting spawnkill
 - no fall damage
 - 1v1 noscope duel
+- random defuse color cable (4 available)
 - ghost mode if u die with noclip function (!duch)
 
 __bhop__
