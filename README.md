@@ -4,13 +4,12 @@ instasity
 -
 my old project for counter strike: global offensive server that has 23 different gamemodes.
 
-i given up because of cs2 release and ![Alt text](https://i.imgur.com/IeM8Orx.png "latency problems")
+i given up because of cs2 release and (https://i.imgur.com/IeM8Orx.png "latency problems")
 
 how it works?
 -
 server is automatic, it will load settings and config for every choosen gamemode with map.
 
-![x1x1x1](https://github.com/abatrowy/instasity-csgo-server/assets/39527345/28f84725-2d9e-4f4b-b2ab-4bf8b2bc1cbd)
 
 important:
 -
