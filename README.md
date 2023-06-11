@@ -10,7 +10,7 @@ how it works?
 -
 server is automatic, it will load settings and config for every choosen gamemode with map.
 
-no admin interference required.
+no admin interference commands required.
 
 
 important:
