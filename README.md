@@ -40,7 +40,7 @@ this server contains:
 - kda reset (!rs)
 - thirdperson (!tp)
 - statistics - kills, deaths, time played on a server (!lvl)
-- welcome, join, disconnect sounds (https://github.com/abatrowy/announcements-plugin)
+- [welcome, join, disconnect sounds](https://github.com/abatrowy/announcements-plugin)
 - custom command server menu (!ustawienia)
 
 custom decals on map:
