@@ -3,7 +3,9 @@ instasity
 ![Language](https://img.shields.io/badge/language-SP-red)
 -
 my old project for counter strike: global offensive server that has 23 different gamemodes.
+
 i given up because of cs2 release and lantecy problems
+
 
 how it works?
 -
