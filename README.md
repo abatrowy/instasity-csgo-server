@@ -47,7 +47,7 @@ this server contains:
 
 custom decals on map:
 -
-![(https://github.com/abatrowy/instasity-csgo-server/blob/main/decal_gif.gif)](https://www.youtube.com/watch?v=K9q2QH5nEps)
+![](https://github.com/abatrowy/instasity-csgo-server/blob/main/decal_gif.gif)
 
 gamemodes with features:
 -
