@@ -1,4 +1,5 @@
-instasity csgo server
+instasity
+![Game](https://img.shields.io/badge/game-csgo-green)
 -
 a counter strike: global offensive server that has 23 different gamemodes.
 
