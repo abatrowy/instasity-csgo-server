@@ -1,7 +1,7 @@
-instasity csgo server?
+instasity csgo server
 -
 a counter strike: global offensive server that has 23 different gamemodes.
-my goal was to make server active and automized without any admin interference with commands
+my goal was to make server active and automized without any admin interference with commands.
 
 ![x1x1x1](https://github.com/abatrowy/instasity-csgo-server/assets/39527345/28f84725-2d9e-4f4b-b2ab-4bf8b2bc1cbd)
 
