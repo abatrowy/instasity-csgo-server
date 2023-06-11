@@ -1,5 +1,5 @@
 instasity
-![https://img.shields.io/badge/game-csgo-green](https://store.steampowered.com/app/730/CounterStrike_Global_Offensive/)
+![https://store.steampowered.com/app/730/CounterStrike_Global_Offensive/](https://img.shields.io/badge/game-csgo-green)
 ![Language](https://img.shields.io/badge/language-SP-red)
 -
 my old project for counter strike: global offensive server that has 23 different gamemodes.
