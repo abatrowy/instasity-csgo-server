@@ -1,9 +1,9 @@
 # instasity-csgo-server
 
-important:
+what is instasity csgo server?
 -
-- before joining server, you have to set cl_downloadfilter "all", sv_allowupload_1 (there's a plugin to force it)
-- 80% of polish support. (mostly plugins were translated by myself)
+its my own little project for counter strike: global offensive server
+i given up because of ping latency issues and cs2 release
 
 ![x1x1x1](https://github.com/abatrowy/instasity-csgo-server/assets/39527345/28f84725-2d9e-4f4b-b2ab-4bf8b2bc1cbd)
 
