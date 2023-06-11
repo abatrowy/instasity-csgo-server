@@ -4,7 +4,7 @@ instasity
 -
 my old project for counter strike: global offensive server that has 23 different gamemodes.
 
-i given up because of cs2 release and (https://i.imgur.com/IeM8Orx.png "latency problems")
+i given up because of cs2 release and [latency problems](https://i.imgur.com/IeM8Orx.png)
 
 how it works?
 -
