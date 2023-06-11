@@ -1,5 +1,3 @@
-# instasity-csgo-server
-
 what is instasity csgo server?
 -
 its my own little project for counter strike: global offensive server
