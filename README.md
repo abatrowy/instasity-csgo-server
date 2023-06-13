@@ -188,7 +188,7 @@ __obviously i wrote stuff that i remember, there's might be something for sure i
 mySQL / databases:
 -
 ![dane](https://github.com/abatrowy/instasity-csgo-server/assets/39527345/46da90f6-b7db-4c9f-b718-10595ef8b5d0)
-- please remember to add them.
+__please remember to add them.__
 
 things i've fixed before releasing this project publicly:
 -
