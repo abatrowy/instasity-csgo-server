@@ -185,6 +185,11 @@ __unusual custom 4fun maps__
 
 __obviously i wrote stuff that i remember, there's might be something for sure i dont remember lol.__
 
+mySQL / databases:
+-
+![dane](https://github.com/abatrowy/instasity-csgo-server/assets/39527345/46da90f6-b7db-4c9f-b718-10595ef8b5d0)
+- please remember to add them.
+
 things i've fixed before releasing this project publicly:
 -
 - server startup logic (including startup plugins etc etc)
