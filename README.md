@@ -4,9 +4,9 @@ instasity
 -
 my old private project for counter strike: global offensive server that has 23 different gamemodes.
 
-my goals for this server were pretty easy, make unique server with lots of gamemodes without any vip flags so anybody could enjoy time spent on a server. all commands are available without any vip restrictions.
+goals for this server were pretty easy, make unique server with lots of gamemodes without any vip flags so anybody could enjoy time spent on a server. all commands are available without any vip restrictions.
 
-i given up because of cs2 release and [latency problems](https://i.imgur.com/IeM8Orx.png)
+also i given up on this project because of cs2 release and [latency problems](https://i.imgur.com/IeM8Orx.png)
 
 how it works?
 -
