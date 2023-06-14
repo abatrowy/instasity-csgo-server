@@ -6,13 +6,14 @@ my old private project for counter strike: global offensive server that has 23 d
 
 goals for this server were pretty easy, make unique server with lots of gamemodes without any vip flags so anybody could enjoy time spent on a server. all commands are available without any vip restrictions.
 
+everything from the changers will be saved to mysql/database, sometimes there's a little bug with custom knifes.
+
 also i given up on this project because of cs2 release and [latency problems](https://i.imgur.com/IeM8Orx.png)
 
 how it works?
 -
 server is automated, it will load settings and config for every choosen gamemode with map.
 
-everything from the changers will be saved to mysql/database, sometimes there's a little bug with custom knifes.
 
 no admin interference commands required.
 
