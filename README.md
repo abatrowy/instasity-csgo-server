@@ -49,7 +49,7 @@ this server contains:
 
 plugin showcases:
 -
-- custom decal on map
+- #### custom decals on map
 
 ![](https://github.com/abatrowy/instasity-csgo-server/blob/main/decal_gif.gif)
 
