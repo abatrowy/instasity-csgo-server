@@ -10,7 +10,7 @@ also i given up on this project because of cs2 release and [latency problems](ht
 
 how it works?
 -
-server is automatic, it will load settings and config for every choosen gamemode with map.
+server is automated, it will load settings and config for every choosen gamemode with map.
 
 no admin interference commands required.
 
