@@ -47,8 +47,9 @@ this server contains:
 - [welcome, join, disconnect sounds](https://github.com/abatrowy/announcements-plugin)
 - custom command server menu (!ustawienia)
 
-custom decals on map:
+plugin showcases:
 -
+- custom decal on map
 ![](https://github.com/abatrowy/instasity-csgo-server/blob/main/decal_gif.gif)
 
 gamemodes with features:
