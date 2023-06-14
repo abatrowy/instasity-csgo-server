@@ -12,6 +12,8 @@ how it works?
 -
 server is automated, it will load settings and config for every choosen gamemode with map.
 
+everything from the changers will be saved to mysql/database, sometimes there's a little bug with custom knifes.
+
 no admin interference commands required.
 
 
@@ -208,6 +210,7 @@ things i've fixed before releasing this project publicly:
 - random spawns
 - problems with cvars
 - plugins that emited 7 sounds in a row (added cooldown)
+
 
 things TO DO:
 -
