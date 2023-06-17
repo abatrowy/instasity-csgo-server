@@ -218,6 +218,7 @@ things TO DO:
 - fix latency lag spike
 - fix surf timer plugin / database
 - fix kz climb plugin / database
+- surf rpg: movement is delayed and you can feel lag power.
 - super powers: wallhack doesn't work.
 - improve basebuilder shop (its broken currently)
 
